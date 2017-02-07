@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{105DF6F0-206A-F664-23E9-0449DCACD354}") = "SimpleJumper 2", "Assembly-CSharp-firstpass.csproj", "{0B2BE2DF-CAAA-A343-E80E-15A90984466C}"
+EndProject
+Project("{105DF6F0-206A-F664-23E9-0449DCACD354}") = "SimpleJumper 2", "Assembly-CSharp.csproj", "{473D522E-8C54-3298-EF53-417DAB641E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2BE2DF-CAAA-A343-E80E-15A90984466C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2BE2DF-CAAA-A343-E80E-15A90984466C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2BE2DF-CAAA-A343-E80E-15A90984466C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2BE2DF-CAAA-A343-E80E-15A90984466C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473D522E-8C54-3298-EF53-417DAB641E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473D522E-8C54-3298-EF53-417DAB641E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473D522E-8C54-3298-EF53-417DAB641E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473D522E-8C54-3298-EF53-417DAB641E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
