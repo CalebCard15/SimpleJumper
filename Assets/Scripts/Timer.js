@@ -1,10 +1,10 @@
 ﻿
-public static var timer: float = 15; // set duration time in seconds in the Inspector
+public static var timer: float = 5; // set duration time in seconds in the Inspector
 
 var Player : GameObject ;
 function Start()
 {
-	timer = 15;
+	timer = 5;
 }
 public function Update(){
   timer -= Time.deltaTime;
